@@ -28,8 +28,17 @@ Me enfoco principalmente en el desarrollo de aplicaciones para **Android** usand
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&count_private=true&hide_title=true&theme=dark)
 
 ### 🏆 **Certificaciones y logros**:
-- Certificado en **Desarrollo Android** de **Udemy**.
-- Participación en proyectos de código abierto de Android.
+- Grado en **Desarrollo de Aplicaciones Multiplataforma** de **Ilerna Online**.
+- Certificado en **Desarrollo Jetpack Compose** de **Udemy**.
+- Certificado en **Android** de **RudoApps**.
+     Introducción a Kotlin y Desarrollo móvil
+     fundamentos de programacion orientado a objetos
+     Desarrollo de interfacesde usuario
+     Manejo de datos y persistencia
+     Navegación y arquitectura de aplicaciones
+     Integración y características avanzadas
+  
+
 
 ### 📫 **¿Cómo contactarme?**
 - 📧 Correo: [daniperezdeveloper@gmail.com]
