@@ -64,14 +64,6 @@ Aquí tienes algunos de los proyectos que más me entusiasman:
 
 ---
 
-### 📈 **Mis estadísticas de GitHub:**
-
-¡Echa un vistazo a mis estadísticas de GitHub! 📊
-
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Dedany&show_icons=true&count_private=true&hide_title=true&theme=dark](https://github-readme-stats.vercel.app/api?username=Dedany&show_icons=true&count_private=true&hide_title=true&theme=dark))
-
----
-
 ### 🏆 **Certificaciones y logros:**
 
 - 🎓 **Grado en Desarrollo de Aplicaciones Multiplataforma** - Ilerna Online
