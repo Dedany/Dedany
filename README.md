@@ -1,4 +1,4 @@
-<img width="400" height="1200" alt="Captura de pantalla 2025-09-22 a las 12 09 53" src="https://github.com/user-attachments/assets/4808d735-6f4b-4d80-93c8-34995240e89d" />
+<img src="https://github.com/user-attachments/assets/4808d735-6f4b-4d80-93c8-34995240e89d" alt="Android Engineer Banner" width="400" />
 
 
 # ¡Hola! Soy **Daniel Pérez** 👋
@@ -57,7 +57,7 @@ Me enfoco principalmente en **Android** con **Java** y **Kotlin**, utilizando la
 ---
 
 ### 🚀 **Proyectos Destacados:**
-- 🔥 [**Cinenear**](https://github.com/Dedany/Cinenear):(https://play.google.com/store/apps/details?id=com.dedany.cinenear)App para descubrir películas cercanas **utilizando la API de TMDb**.
+- 🔥 [**Cinenear** – GitHub](https://github.com/Dedany/Cinenear) | [**Play Store**](https://play.google.com/store/apps/details?id=com.dedany.cinenear): App para descubrir películas cercanas **utilizando la API de TMDb**.  
 - 📚 [**SecretGift**](https://github.com/Dedany/SecretGift): Aplicación para organizar intercambios de regalos de manera sencilla y divertida **con interfaz moderna y atractiva**.
 - - 📖 [**RegistroDeLibros**](https://github.com/Dedany/RegistroDeLibros): App para registrar libros leídos y gestionar una biblioteca personal de forma sencilla.
 - 🌐 [**Apptismo**](https://github.com/Dedany/Apptismo): Facilita la interacción con personas con espectro Autista.
