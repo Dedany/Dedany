@@ -71,6 +71,7 @@ Me enfoco principalmente en **Android** con **Java** y **Kotlin**, utilizando la
 - 🏅 **Certificado en Desarrollo Jetpack Compose** - Udemy
 - 🎓 **Certificado en Android** - **CampusDualTIC**  
 - 🏆 **Certificado Architect Coders** - **DevExpert.io** (Antonio Leiva)
+- - 🏆 **Certificado Accessibility Expert** - **DevExpert.io** (Antonio Leiva)
 
 ---
 
