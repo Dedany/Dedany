@@ -70,7 +70,6 @@ Me enfoco principalmente en **Android** con **Java** y **Kotlin**, utilizando la
 - 🎓 **Grado en Desarrollo de Aplicaciones Multiplataforma** - Ilerna Online
 - 🏅 **Certificado en Desarrollo Jetpack Compose** - Udemy   
 - 🎓 **Certificado en Android** - **CampusDualTIC** - 🎓 [Certificado Desarrollador Android](./Diploma_Daniel_Perez_Alvarez.pdf)
-
 - 🏆 **Certificado Architect Coders** - **DevExpert.io** (Antonio Leiva) - 🏅 [Certificado Architect Coders](./Architect-Coders.pdf)
 - - 🏆 **Certificado Accessibility Expert** - **DevExpert.io** (Antonio Leiva) - 🏅 [Certificado Accessibility Expert](./Accessibility-Expert.pdf)
 
