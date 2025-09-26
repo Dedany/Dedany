@@ -2,7 +2,7 @@
 <img
   src="https://github.com/user-attachments/assets/e35d037d-dcad-44ae-91cf-345c15ffebb6"
   alt="Captura de pantalla"
-  width="80%"
+  width="100%"
 />
 # ¡Hola! Soy **Daniel Pérez** 👋
 
