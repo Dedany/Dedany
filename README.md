@@ -1,4 +1,4 @@
-<img width="400" height="600" alt="Captura de pantalla 2025-09-22 a las 12 09 53" src="https://github.com/user-attachments/assets/4808d735-6f4b-4d80-93c8-34995240e89d" />
+<img width="400" height="1200" alt="Captura de pantalla 2025-09-22 a las 12 09 53" src="https://github.com/user-attachments/assets/4808d735-6f4b-4d80-93c8-34995240e89d" />
 
 
 # ¡Hola! Soy **Daniel Pérez** 👋
