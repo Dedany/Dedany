@@ -1,7 +1,6 @@
-<!-- Banner ampliado y responsivo -->
 <img
   src="https://github.com/user-attachments/assets/e35d037d-dcad-44ae-91cf-345c15ffebb6"
-  alt="Captura de pantalla"
+  alt="Android Engineer Banner"
   width="100%"
 />
 # ¡Hola! Soy **Daniel Pérez** 👋
