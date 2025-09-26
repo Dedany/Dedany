@@ -1,8 +1,5 @@
-<img
-  src="https://github.com/user-attachments/assets/e35d037d-dcad-44ae-91cf-345c15ffebb6"
-  alt="Android Engineer Banner"
-  width="100%"
-/>
+<img src="https://github.com/user-attachments/assets/e35d037d-dcad-44ae-91cf-345c15ffebb6" alt="Android Engineer Banner" width="80%" />
+
 # ¡Hola! Soy **Daniel Pérez** 👋
 
 Soy un **desarrollador Android** apasionado por crear **aplicaciones móviles** que mejoren la vida de los usuarios. Me encanta construir **interfaces intuitivas** y **fluidas**, siempre buscando la mejor experiencia posible. 💻✨
