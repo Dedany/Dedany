@@ -1,11 +1,9 @@
+<!-- Banner ampliado y responsivo -->
 <img
-  src="https://github.com/user-attachments/assets/4808d735-6f4b-4d80-93c8-34995240e89d"
-  alt="Android Engineer Banner"
+  src="https://github.com/user-attachments/assets/e35d037d-dcad-44ae-91cf-345c15ffebb6"
+  alt="Captura de pantalla"
   width="80%"
 />
-
-
-
 # ¡Hola! Soy **Daniel Pérez** 👋
 
 Soy un **desarrollador Android** apasionado por crear **aplicaciones móviles** que mejoren la vida de los usuarios. Me encanta construir **interfaces intuitivas** y **fluidas**, siempre buscando la mejor experiencia posible. 💻✨
