@@ -58,12 +58,11 @@ Me enfoco principalmente en **Android** con **Java** y **Kotlin**, utilizando la
 - **Kotlin Coroutines**: Dominando la concurrencia para construir aplicaciones más rápidas y eficientes.
 
 ---
-
-### 🚀 **Proyectos Destacados:**
-- 🔥 [**Cinenear** – GitHub](https://github.com/Dedany/Cinenear) | [**Play Store**](https://play.google.com/store/apps/details?id=com.dedany.cinenear): App para descubrir películas cercanas **utilizando la API de TMDb**.  
-- 📚 [**SecretGift**](https://github.com/Dedany/SecretGift): Aplicación para organizar intercambios de regalos de manera sencilla y divertida **con interfaz moderna y atractiva**.
-- - 📖 [**RegistroDeLibros**](https://github.com/Dedany/RegistroDeLibros): App para registrar libros leídos y gestionar una biblioteca personal de forma sencilla.
-- 🌐 [**Apptismo**](https://github.com/Dedany/Apptismo): Facilita la interacción con personas con espectro Autista.
+### 🚀 Proyectos Destacados:
+- 🔥 [**Cinenear**](https://github.com/Dedany/Cinenear) | [**Play Store**](https://play.google.com/store/apps/details?id=com.dedany.cinenear): App para descubrir películas cercanas utilizando la API de TMDb.  
+- 📚 [**SecretGift**](https://github.com/Dedany/SecretGift): Aplicación para organizar intercambios de regalos de manera sencilla y divertida **con interfaz moderna y atractiva**.  
+- 📖 [**RegistroDeLibros**](https://github.com/Dedany/RegistroDeLibros): App para registrar libros leídos y gestionar una biblioteca personal de forma sencilla.  
+- 🌐 [**Apptismo**](https://github.com/Dedany/Apptismo): Facilita la interacción con personas con espectro Autista.  
 
 ---
 
