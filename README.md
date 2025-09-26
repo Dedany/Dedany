@@ -1,4 +1,8 @@
-<img src="https://github.com/user-attachments/assets/e35d037d-dcad-44ae-91cf-345c15ffebb6" alt="Android Engineer Banner" width="80%" />
+<img
+  src="https://github.com/user-attachments/assets/e35d037d-dcad-44ae-91cf-345c15ffebb6"
+  alt="Android Engineer Banner"
+  width="90%"
+/>
 
 # ¡Hola! Soy **Daniel Pérez** 👋
 
